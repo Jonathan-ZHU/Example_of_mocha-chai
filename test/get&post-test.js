@@ -4,7 +4,7 @@ var should = chai.should();
 var expect = chai.expect;
 chai.use(chaiHttp);
 
-var func1 = require('../application/func1');
+var func1 = require('../application/get&post.js');
 
 describe('post and get', function() {
     it('sampleget should return what is sent ', function(done) {
