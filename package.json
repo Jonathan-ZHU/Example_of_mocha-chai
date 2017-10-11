@@ -1,0 +1,18 @@
+{
+  "name": "mocha_chai_example",
+  "version": "0.0.1",
+  "description": "这是一个用于熟悉和测试mocha和chai的例子",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan (tinycalf)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "chai-http": "^1.0.0"
+  }
+}
